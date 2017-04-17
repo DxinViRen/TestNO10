@@ -1,0 +1,7 @@
+platform:ios,'10.0'
+target 'TestNO10'do
+pod 'PureLayout'
+pod 'AFNetworking'
+pod 'MJRefresh'
+pod 'MJExtension'
+end
